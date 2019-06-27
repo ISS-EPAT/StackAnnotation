@@ -66,7 +66,7 @@
     <property name="user.script" value="" />
     <property name="eclipse.pdebuild.scripts" value="/D:/eclipse/plugins/org.eclipse.pde.build_3.8.100.v20130514-1028/scripts/" />
     <property name="user.home" value="C:\Users\Yunghans Irawan" />
-    <property name="target" value="1.6" />
+    <property name="target" value="1.7" />
     <property name="env.ProgramData" value="C:\ProgramData" />
     <property name="env.SESSIONNAME" value="Console" />
     <property name="env.ProgramFiles(x86)" value="C:\Program Files (x86)" />
@@ -111,7 +111,7 @@
     <property name="ant.core.lib" value="D:\eclipse\plugins\org.apache.ant_1.8.4.v201303080030\lib\ant.jar" />
     <property name="env.USERNAME" value="Yunghans Irawan" />
     <property name="env.SystemDrive" value="C:" />
-    <property name="source" value="1.6" />
+    <property name="source" value="1.7" />
     <property name="file.encoding" value="Cp1252" />
     <property name="env.USERDOMAIN" value="Hans-Notebook" />
     <property name="java.specification.version" value="1.8" />
